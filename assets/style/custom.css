@@ -19,18 +19,18 @@ background-color: #479CD3;
 
 #main {
   overflow:auto;
-  padding-bottom:150px; /* this needs to be bigger than footer height*/
+  padding-bottom:150px;
 }
 
 .container {
-
   position: relative;
-  min-height 100%;
+  min-height: 100%;
 }
+
 .footer {
   position: relative;
   margin-top: -112px; /* negative value of footer height */
   height: 100px;
   clear:both;
   padding-top:20px;
-}
+};
